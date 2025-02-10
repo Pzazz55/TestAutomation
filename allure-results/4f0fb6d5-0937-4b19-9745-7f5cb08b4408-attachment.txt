@@ -1,0 +1,7 @@
+INFO: Launching browser...
+INFO: Checking if company logo is visible on the login page
+INFO: Filling in username and password
+INFO: Clicking on Login button
+INFO: Checking if user dropdown name is visible
+INFO: Extracting login name text and verifying
+INFO: Closing the browser after test execution

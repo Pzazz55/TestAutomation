@@ -1,0 +1,4 @@
+[32mINFO    [0m pytest_allure:pytest_allure.py:20 Launching browser...
+[32mINFO    [0m pytest_allure:pytest_allure.py:29 Checking if company logo is visible on the login page
+[31m[1mERROR   [0m pytest_allure:pytest_allure.py:60 Test failed: object Locator can't be used in 'await' expression
+[32mINFO    [0m pytest_allure:pytest_allure.py:66 Closing the browser after test execution

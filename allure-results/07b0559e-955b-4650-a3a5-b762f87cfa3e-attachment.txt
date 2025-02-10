@@ -1,0 +1,7 @@
+Launching browser...
+Checking if company logo is visible on the login page
+Filling in username and password
+Clicking on Login button
+Checking if user dropdown name is visible
+Extracting login name text and verifying
+Closing the browser after test execution

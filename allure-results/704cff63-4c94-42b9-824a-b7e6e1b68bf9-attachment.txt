@@ -1,0 +1,7 @@
+[32mINFO    [0m pytest_allure:pytest_allure.py:20 Launching browser...
+[32mINFO    [0m pytest_allure:pytest_allure.py:29 Checking if company logo is visible on the login page
+[32mINFO    [0m pytest_allure:pytest_allure.py:36 Filling in username and password
+[32mINFO    [0m pytest_allure:pytest_allure.py:42 Clicking on Login button
+[32mINFO    [0m pytest_allure:pytest_allure.py:48 Checking if user dropdown name is visible
+[32mINFO    [0m pytest_allure:pytest_allure.py:55 Extracting login name text and verifying
+[32mINFO    [0m pytest_allure:pytest_allure.py:66 Closing the browser after test execution
