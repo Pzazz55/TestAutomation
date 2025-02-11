@@ -66,4 +66,4 @@ async def test_assertions():
 
         await browser.close()
 
-        # pytest .\scripts\pytest_assertions.py --html=reports/test_report.html
+        # pytest .\scripts\pytest_hard_assertions.py --html=reports/test_report.html
